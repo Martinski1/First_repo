@@ -1,0 +1,26 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family: Georgia;
+}
+h1 {
+  margin-bottom: 15px;
+  font-size: 175%;
+  text-align: center;
+}
+
+
+
+/********** Large devices only **********/
+@media (min-width: 992px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/********** small devices only **********/
+@media (max-width: 767px) {
+
+}
